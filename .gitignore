@@ -33,3 +33,6 @@
 
 #build folder
 build/*
+
+#Xcode related files
+.DS_Store
